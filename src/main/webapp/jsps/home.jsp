@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>Tomcat Server</title>
 <link href="Downloads/logo-jenkins.jpg" rel="icon">
 </head>
 </head>
