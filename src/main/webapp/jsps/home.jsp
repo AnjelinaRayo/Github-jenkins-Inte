@@ -31,12 +31,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="Images/Jenkinslogo.jpg" alt="" width="100">
+		<img src="Images/Jenkinslogo.jpg" alt="" width="400">
 	</span>
 	<span style="font-weight: bold;">
 		Jenkins
 		<br>
-		<a href="Vyomlabs">..</a>
+		
 	</span>
 </div>
 <hr>
