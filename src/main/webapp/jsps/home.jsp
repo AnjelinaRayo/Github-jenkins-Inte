@@ -31,7 +31,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="Downloads/logo-jenkins.jpg" alt="" width="100">
+		<img src="Images/Jenkinslogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Jenkins
