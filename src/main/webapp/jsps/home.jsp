@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Tomcat Server</title>
-<img src="jenkinslogo.jpg" alt="Girl in a jacket" >
+<img src="jenkinslogo.jpg">
 </head>
 </head>
 <body>
