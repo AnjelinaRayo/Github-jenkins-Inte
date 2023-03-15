@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Deploy in Tomcat Server </h1>
-<h1 align="center"> Deployment Stage</h1>
+<h1 align="center">Deployment Stage </h1>
+<h1 align="center">Deploy in Tomcat Server</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
