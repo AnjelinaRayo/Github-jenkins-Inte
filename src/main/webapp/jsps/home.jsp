@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Deployment in Tomcat Server </h1>
+<h1 align="center">Deploy in Tomcat Server </h1>
 <h1 align="center"> Deployment Stage</h1>
 <hr>
 <br>
